@@ -44,6 +44,8 @@ To install MySQL python connector :
 
 > pip install mysql-connector-python
 
+I am using postman for testing apis. It can be downloaded from https://www.getpostman.com/downloads/
+
 ## How to use
 
 [![Watch the video](https://img.youtube.com/vi/bRsRVLRs4Jc/maxresdefault.jpg)](https://youtu.be/bRsRVLRs4Jc)
