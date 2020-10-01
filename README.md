@@ -1,6 +1,6 @@
 # FOSSEE Summer Fellowship 2019: Task 4: APIs for Media
 
-## Requirements
+## Requirement
 
 Step 1 : Create a virtual environment <br />
 Step 2 : Install python 3.6 , django 1.11 and MySQL <br /> 
@@ -46,7 +46,7 @@ To install MySQL python connector :
 
 I am using postman for testing apis. It can be downloaded from https://www.getpostman.com/downloads/
 
-## How to use
+## How to use it
 The urls for the various apis are shown in below vedio
 [![Watch the video](https://img.youtube.com/vi/bRsRVLRs4Jc/maxresdefault.jpg)](https://youtu.be/bRsRVLRs4Jc)
 
